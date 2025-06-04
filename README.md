@@ -8,7 +8,9 @@ Projenin Amacı:
 4. Akış diyagramı ile yazılımın yapısını görselleştirmek.
 
 Canlı Sınıfı: Oyuncular ve düşmanlar için temel sınıf.
+
 Oyuncu Sınıfı: Canlı sınıfından oluşmuş bir sınıf.
+
 Düşman Sınıfı: Canlı sınıfından oluşan ve oyuncuya saldırabilen bir sınıf.
 
 Alt sınıflar: Şövalye, Şifacı, Büyücü (her birini özel hareketlerle oluşturdum).
@@ -23,6 +25,7 @@ Oyun sırasında oyuncunun verdiği kararlara göre üretilen ekran çıktılar�
 4. Zafer veya Yenilgi: Tüm dalgaları geçme ya da oyuncunun ölmesi durumları.
 
 Oyun yapısı açık ve genişletilebilir bir şekilde tasarlandı.
+
 Görselleştirmeler ile yazılımın yapısı kolayca anlaşılır hale getirildi.
 
 EK DOSYALAR:
