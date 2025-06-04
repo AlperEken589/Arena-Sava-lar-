@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\bin\Debug\Arena Savaşçıları.exe.config
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\bin\Debug\Arena Savaşçıları.exe
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\bin\Debug\Arena Savaşçıları.pdb
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\obj\Debug\Arena Savaşçıları.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\obj\Debug\Arena Savaşçıları.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\obj\Debug\Arena Savaşçıları.exe
+C:\Users\Asus\source\repos\Arena Savaşçıları\Arena Savaşçıları\obj\Debug\Arena Savaşçıları.pdb
